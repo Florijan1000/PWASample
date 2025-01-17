@@ -1,16 +1,1 @@
-{
-    "name": "Arbeitstage bis Urlaub",
-    "short_name": "UrlaubCountdown",
-    "start_url": "/index.html",
-    "display": "standalone",
-    "background_color": "#ffffff",
-    "description": "Eine PWA, die die verbleibenden Arbeitstage bis zu deinem Urlaub und bis zum Ende März zählt.",
-    "icons": [
-        {
-            "src": "icon-128x128.png",
-            "sizes": "128x128",
-            "type": "image/png"
-        }
-    ],
-    "theme_color": "#00796b"
-}
+{"theme_color":"#8936FF","background_color":"#2EC6FE","icons":[{"purpose":"maskable","sizes":"512x512","src":"icon512_maskable.png","type":"image/png"},{"purpose":"any","sizes":"512x512","src":"icon512_rounded.png","type":"image/png"}],"orientation":"any","display":"standalone","dir":"auto","lang":"de-DE","name":"Mobile_project","short_name":"Mobile","start_url":"/index.html"}
